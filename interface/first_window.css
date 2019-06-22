@@ -1,0 +1,15 @@
+window {
+    background-color: #36393E;   
+}
+label {
+    color: white;
+}
+
+button label {
+    color:black;
+}
+
+entry {
+    background-color:#42454A ;
+    color: white;
+}
