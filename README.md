@@ -29,3 +29,5 @@ Pour l’affichage avec une interface graphique il suffit de faire :
 sans mettre d’arguments supplémentaires.
 
 ## Images
+
+![Messagerie](messagerie.PNG)
